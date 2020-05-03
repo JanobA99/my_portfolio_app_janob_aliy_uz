@@ -173,7 +173,7 @@ class ProfileInfo extends StatelessWidget {
     crossAxisAlignment: CrossAxisAlignment.start,
     children: <Widget>[
       Text(
-        "Hello there! My name is",
+        "Hi there! My name is",
         textScaleFactor: 2,
         style: TextStyle(color: Colors.orange),
       ),
