@@ -191,7 +191,7 @@ class ProfileInfo extends StatelessWidget {
       Text(
         "A Google Developer Expert for Flutter, Dart & Web Tech.\n"
         "I am also a website and mobile application designer\n"
-        "I can create website and mobile application.",
+        "I can create a website and mobile application.",
         softWrap: true,
         textScaleFactor: 1.5,
         style: TextStyle(color: Colors.white70),
